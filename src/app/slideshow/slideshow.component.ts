@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class SlideshowComponent {
   images = ['MathiasKohler_dark.jpg', 'coding.jpg', 'MathiasKohler_bright.jpg', 'industry_4.jpg'];
-  headlines = ['Continous learning is the key to be.', 'Bring your programming skills to another Stage!', 'Inovation is the way of buisness!', 'Bring engineering to the next level!'];
+  headlines = ['Continous learning is the key to be.', 'Bring your programming skills to another Stage!', 'Innovation is the way of business!', 'Bring engineering to the next level!'];
   currentImage = 0;
   showImage = true;
 
